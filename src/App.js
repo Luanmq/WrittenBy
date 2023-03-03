@@ -1,9 +1,6 @@
-function App() {
-  return (
-    <div>
-      <h1>Olá</h1>
-    </div>
-  );
-}
+import "./Styles.css";
+import Home from "./pages/Home.js";
 
-export default App;
+export default function App() {
+  return <Home />;
+}

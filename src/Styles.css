@@ -4,6 +4,7 @@
 }
 
 html {
+  /* A cada 1rem sera considerado 10px */
   font-size: 62.5%;
 }
 
@@ -29,21 +30,21 @@ html {
 .headline-large {
   font-wheight: Bold;
   font-size: 3.2rem;
-  line-height: 3.8rem;
+  line-height: 4.2rem;
   line-height: 100%;
 }
 
 .headline-medium {
   font-wheight: Bold;
   font-size: 2.4rem;
-  line-height: 3rem;
+  line-height: 3.4rem;
   line-height: 100%;
 }
 
 .headline-small {
   font-wheight: Bold;
   font-size: 1.6rem;
-  line-height: 2rem;
+  line-height: 2.6rem;
   line-height: 100%;
 }
 
@@ -51,21 +52,21 @@ html {
 .title-large {
   font-wheight: 400;
   font-size: 2.4rem;
-  line-height: 3rem;
+  line-height: 3.4rem;
   line-height: 100%;
 }
 
 .title-medium {
   font-wheight: 400;
   font-size: 2rem;
-  line-height: 2.4rem;
+  line-height: 3rem;
   line-height: 100%;
 }
 
 .title-small {
   font-wheight: 400;
   font-size: 1.6rem;
-  line-height: 2rem;
+  line-height: 2.6rem;
   line-height: 100%;
 }
 
@@ -73,21 +74,21 @@ html {
 .text-large {
   font-wheight: normal;
   font-size: 2.4rem;
-  line-height: 3rem;
+  line-height: 3.4rem;
   line-height: 100%;
 }
 
 .text-medium {
   font-wheight: normal;
   font-size: 2rem;
-  line-height: 2.4rem;
+  line-height: 3rem;
   line-height: 100%;
 }
 
 .text-small {
   font-wheight: normal;
   font-size: 1.6rem;
-  line-height: 2rem;
+  line-height: 2.6rem;
   line-height: 100%;
 }
 
@@ -95,20 +96,20 @@ html {
 .label-large {
   font-wheight: Bold;
   font-size: 1.6rem;
-  line-height: 2rem;
+  line-height: 2.6rem;
   line-height: 100%;
 }
 
 .label-medium {
   font-wheight: Bold;
   font-size: 1.4rem;
-  line-height: 1.6rem;
+  line-height: 2.4rem;
   line-height: 100%;
 }
 
 .label-small {
   font-wheight: Bold;
   font-size: 1rem;
-  line-height: 1.2rem;
+  line-height: 2rem;
   line-height: 100%;
 }

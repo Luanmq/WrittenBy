@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+:root {
+  font-family: "Inter", sans-serif;
+
+  /* Cores */
+  --primary-700: #811a01;
+  --primary-500: #a42102;
+  --primary-300: #c23d1d;
+
+  --dark-900: #201b18;
+  --dark-700: #2f2523;
+  --dark-300: #4b4442;
+
+  --white-900: #a2938f;
+  --white-600: #d7c2bd;
+  --white-300: #ffdad2;
+  --white-200: #eee0dd;
+}
+
+/* Headline */
+.headline-large {
+  font-wheight: Bold;
+  font-size: 3.2rem;
+  line-height: 3.8rem;
+  line-height: 100%;
+}
+
+.headline-medium {
+  font-wheight: Bold;
+  font-size: 2.4rem;
+  line-height: 3rem;
+  line-height: 100%;
+}
+
+.headline-small {
+  font-wheight: Bold;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  line-height: 100%;
+}
+
+/* Title */
+.title-large {
+  font-wheight: 400;
+  font-size: 2.4rem;
+  line-height: 3rem;
+  line-height: 100%;
+}
+
+.title-medium {
+  font-wheight: 400;
+  font-size: 2rem;
+  line-height: 2.4rem;
+  line-height: 100%;
+}
+
+.title-small {
+  font-wheight: 400;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  line-height: 100%;
+}
+
+/* Text */
+.text-large {
+  font-wheight: normal;
+  font-size: 2.4rem;
+  line-height: 3rem;
+  line-height: 100%;
+}
+
+.text-medium {
+  font-wheight: normal;
+  font-size: 2rem;
+  line-height: 2.4rem;
+  line-height: 100%;
+}
+
+.text-small {
+  font-wheight: normal;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  line-height: 100%;
+}
+
+/* Label */
+.label-large {
+  font-wheight: Bold;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  line-height: 100%;
+}
+
+.label-medium {
+  font-wheight: Bold;
+  font-size: 1.4rem;
+  line-height: 1.6rem;
+  line-height: 100%;
+}
+
+.label-small {
+  font-wheight: Bold;
+  font-size: 1rem;
+  line-height: 1.2rem;
+  line-height: 100%;
+}

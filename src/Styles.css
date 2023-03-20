@@ -27,21 +27,21 @@ html {
 }
 
 /* Headline */
-.headline-large {
+.headline_large {
   font-wheight: Bold;
   font-size: 3.2rem;
   line-height: 4.2rem;
   line-height: 100%;
 }
 
-.headline-medium {
+.headline_medium {
   font-wheight: Bold;
   font-size: 2.4rem;
   line-height: 3.4rem;
   line-height: 100%;
 }
 
-.headline-small {
+.headline_small {
   font-wheight: Bold;
   font-size: 1.6rem;
   line-height: 2.6rem;
@@ -49,21 +49,21 @@ html {
 }
 
 /* Title */
-.title-large {
+.title_large {
   font-wheight: 400;
   font-size: 2.4rem;
   line-height: 3.4rem;
   line-height: 100%;
 }
 
-.title-medium {
+.title_medium {
   font-wheight: 400;
   font-size: 2rem;
   line-height: 3rem;
   line-height: 100%;
 }
 
-.title-small {
+.title_small {
   font-wheight: 400;
   font-size: 1.6rem;
   line-height: 2.6rem;
@@ -71,21 +71,21 @@ html {
 }
 
 /* Text */
-.text-large {
+.text_large {
   font-wheight: normal;
   font-size: 2.4rem;
   line-height: 3.4rem;
   line-height: 100%;
 }
 
-.text-medium {
+.text_medium {
   font-wheight: normal;
   font-size: 2rem;
   line-height: 3rem;
   line-height: 100%;
 }
 
-.text-small {
+.text_small {
   font-wheight: normal;
   font-size: 1.6rem;
   line-height: 2.6rem;
@@ -93,21 +93,21 @@ html {
 }
 
 /* Label */
-.label-large {
+.label_large {
   font-wheight: Bold;
   font-size: 1.6rem;
   line-height: 2.6rem;
   line-height: 100%;
 }
 
-.label-medium {
+.label_medium {
   font-wheight: Bold;
   font-size: 1.4rem;
   line-height: 2.4rem;
   line-height: 100%;
 }
 
-.label-small {
+.label_small {
   font-wheight: Bold;
   font-size: 1rem;
   line-height: 2rem;

@@ -3,9 +3,9 @@ import PropTypes from "prop-types";
 
 export default function Button(props) {
   return (
-    <button className="button_default text_small">
+    <button className={props.variant}>
       <span className="button_icon">{props.startIcon}</span>
-      {props.text}
+      <span className="text_small">{props.text}</span>
       <span className="button_icon">{props.endIcon}</span>
     </button>
   );

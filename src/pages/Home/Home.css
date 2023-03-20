@@ -1,0 +1,5 @@
+.home_body {
+  height: 100vh;
+  background: var(--dark-900);
+  padding: 2rem 8rem;
+}

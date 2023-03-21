@@ -3,10 +3,13 @@ nav {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 15.6rem;
+  padding: 0 10%;
 
-  height: 7.1rem;
-  width: 100%;
+  position: fixed;
+  top: 0;
+  height: 8rem;
+  width: 80%;
+  overflow: hidden;
 
   background: var(--dark-900);
 }
@@ -17,7 +20,7 @@ a:hover {
   font-weight: bold;
 }
 
-ul.media {
+.media {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
@@ -31,7 +34,7 @@ ul.media {
   flex-grow: 0;
 }
 
-ul.media li a {
+.media li a {
   color: var(--white-200);
   text-decoration: none;
 }
@@ -50,13 +53,13 @@ ul.media li a:active {
   gap: 0.5rem;
 }
 
-.user_container .user_login {
+.user_login {
   color: var(--white-200);
   text-decoration: none;
   font-weight: bold;
 }
 
-.user_container ul.user_options {
+.user_options {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -74,4 +77,11 @@ ul.user_options li a:active {
   color: var(--primary-500);
   text-decoration: none;
   font-weight: bold;
+}
+
+.navbar_logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
